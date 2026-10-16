@@ -243,7 +243,8 @@ Suitable hosting options include platforms that support Python web services and 
 6. Test `/health` and `/analyze` after deployment.
 7. Configure appropriate authentication, access controls, and secret management before exposing sensitive services publicly.
 
-**Deployment status:** The project currently runs locally. Add the actual public application URLs here only after you have successfully deployed and tested the frontend and backend.
+**Deployment status:** The project deployed on render
+
 
 - **Live Dashboard:** Not deployed yet
 - **Backend API:** Not deployed yet
