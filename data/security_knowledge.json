@@ -1,0 +1,18 @@
+
+[
+  {
+    "topic": "Brute-force login",
+    "keywords": ["failed_login", "brute force", "authentication"],
+    "guidance": "Review failed login timestamps, targeted accounts, subsequent successful logins, and account lockout events."
+  },
+  {
+    "topic": "Port scanning",
+    "keywords": ["port_scan", "ports", "reconnaissance"],
+    "guidance": "Review destination ports, scan frequency, firewall logs, and whether the source host is authorized to perform scanning."
+  },
+  {
+    "topic": "Incident verification",
+    "keywords": ["investigation", "evidence", "verification"],
+    "guidance": "Correlate alerts with relevant host and network logs. Distinguish observed evidence from hypotheses before determining incident severity."
+  }
+]

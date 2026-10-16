@@ -1,0 +1,12 @@
+
+langchain
+langgraph
+langchain-groq
+python-dotenv
+pandas
+scikit-learn
+fastapi
+uvicorn[standard]
+streamlit
+faiss-cpu
+pytest
